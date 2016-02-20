@@ -6,7 +6,7 @@ RevealFAB is a simple custom view that provide you intents between activities wi
 
 ## Install
 Add the repository to your top build.gradle:
-```
+```groovy
 repositories {
     jcenter()
     maven {
@@ -16,13 +16,13 @@ repositories {
 ```
 
 And then, add the dependency in your app build.gradle file:
-```
+```groovy
 compile 'com.sergiocasero.revealfab:revealfab:1.0'
 ```
 ## Example
 
 Add to your layout:
-```
+```xml
 <RelativeLayout...>
 
     <android.support.design.widget.CoordinatorLayout...>
@@ -43,7 +43,7 @@ Add to your layout:
 Like you can see, you have 3 custom attributes for customize colors and icon
 
 Setting information about intent:
-```
+```java
 revealFAB = (RevealFAB) findViewById(R.id.reveal_fab);
 Intent intent = new Intent(MainActivity.this, DetailActivity.class);
 revealFAB.setIntent(intent);
@@ -57,7 +57,7 @@ revealFAB.setOnClickListener(new RevealFAB.OnClickListener() {
 ```
 
 ## Don't forget call onResume() method!
-```
+```java
 @Override
 protected void onResume() {
     super.onResume();
@@ -77,7 +77,7 @@ Want to contribute? Great!
 License
 ----
 
-MIT
+Apache
 
 
 **Free Software, Hell Yeah!**
