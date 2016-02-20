@@ -2,7 +2,7 @@
 
 # RevealFAB
 
-RevealFAB is a simple custom view that provide you intents between activities with ripple animation.
+RevealFAB is a simple custom view that provides you intents between activities with ripple animation.
 
 ## Install
 Add the repository to your top build.gradle:
@@ -40,7 +40,7 @@ Add to your layout:
 ```
 **Important**: This component goes above your content. You can use Coordinator, LinearLayout... or another Relative layout if you want :)
 
-Like you can see, you have 3 custom attributes for customize colors and icon
+As you can see, you have 3 custom attributes for customizing colors and icon
 
 Setting information about intent:
 ```java
