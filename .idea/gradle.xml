@@ -3,14 +3,31 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+<<<<<<< HEAD
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleJvm" value="1.8" />
+=======
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4" />
+        <option name="gradleJvm" value="1.7" />
+>>>>>>> 6ea8a9a345d0a2f4f39cbfe6ad83db7ca42b700e
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+<<<<<<< HEAD
             <option value="$PROJECT_DIR$/circualreveal-release" />
+=======
+            <option value="$PROJECT_DIR$/revealfab" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+>>>>>>> 6ea8a9a345d0a2f4f39cbfe6ad83db7ca42b700e
             <option value="$PROJECT_DIR$/revealfab" />
           </set>
         </option>

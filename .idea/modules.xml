@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/RevealFAB.iml" filepath="$PROJECT_DIR$/RevealFAB.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/circualreveal-release/circualreveal-release.iml" filepath="$PROJECT_DIR$/circualreveal-release/circualreveal-release.iml" />
       <module fileurl="file://$PROJECT_DIR$/circualreveal-release/circualreveal-release.iml" filepath="$PROJECT_DIR$/circualreveal-release/circualreveal-release.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/RevealFAB.iml" filepath="$PROJECT_DIR$/.idea/RevealFAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RevealFAB.iml" filepath="$PROJECT_DIR$/RevealFAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+>>>>>>> 6ea8a9a345d0a2f4f39cbfe6ad83db7ca42b700e
       <module fileurl="file://$PROJECT_DIR$/revealfab/revealfab.iml" filepath="$PROJECT_DIR$/revealfab/revealfab.iml" />
     </modules>
   </component>
